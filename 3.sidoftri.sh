@@ -1,4 +1,4 @@
-# Shell script to read 3 numbers and test whether they can be sides os a triangle.
+# Shell script to read 3 numbers and test whether they can be sides of a triangle.
 
 if  [ $# -gt 3 -o $# -lt 3 -a $# -gt 0 ]
 then
