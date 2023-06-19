@@ -1,3 +1,5 @@
+# 2.Shell script to read 3 numbers and test whether they can be sides os a triangle.
+
 if  [ $# -gt 3 -o $# -lt 3 -a $# -gt 0 ]
 then
 echo "syntax error,syntax is $0 [first side] [second side] [third side]"
