@@ -1,4 +1,4 @@
-#7.shell script to display message "Good Morning,Good Afternoon,Good evening and Good Night" according to system time
+#shell script to display message "Good Morning,Good Afternoon,Good evening and Good Night" according to system time
 if  [ $# -gt 1 ]
 then
 echo "syntax error"
