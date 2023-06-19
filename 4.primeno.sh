@@ -1,3 +1,4 @@
+# 3.Shell script using command line to print the prime number between two numbers .
 if [ $# -gt 2 ]
 then
 echo "syntax error"
