@@ -1,3 +1,4 @@
+#shell script to delete all lines containing word linux*
 if [ $# -gt 1 ]
 then
 echo "Syntax error.nSyntax is <$0> [file name]"
